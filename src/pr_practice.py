@@ -5,5 +5,5 @@
 # print("My name is Young hee Song")
 # print("Please contact me at younghee.song@pwc.com")
 
-print("My name is <Young hee Song>")
-print("Please contact me at <younghee.song@pwc.com>")
+print("My name is <NAME>")
+print("Please contact me at <EMAIL>")
